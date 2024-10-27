@@ -48,7 +48,5 @@ document.getElementById('btn-login').addEventListener('click',function(event){
   else{
     alert('invalid number or pin');
   }
-
-  
   
 })
