@@ -41,7 +41,7 @@ document.getElementById('btn-login').addEventListener('click',function(event){
 
   console.log(phoneNumber,pinNumber);
 
-  if( phoneNumber==='01301441194' & pinNumber==='457082'){
+  if( phoneNumber==='01301441194' & pinNumber==='1234'){
     console.log("your are loged in");
     window.location.href ='./payoohome.html';
   }
