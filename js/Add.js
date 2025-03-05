@@ -2,7 +2,7 @@ document.getElementById('submit').addEventListener("click", function(){
     
 
     const pin=document.getElementById('pin').value;
-    if(pin=='457082'){
+    if(pin=='1234'){
          const addMoney=document.getElementById('input-money').value;
 
          const Balance=parseInt(document.getElementById('balance').innerText);
